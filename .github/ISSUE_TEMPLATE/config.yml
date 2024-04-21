@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Chrome issues
+    url: /bpc-clone/bypass-paywalls-chrome-clean/issues
+    about: Also check Chrome issues.
