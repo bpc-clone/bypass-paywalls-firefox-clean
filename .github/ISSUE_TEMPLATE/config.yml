@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Chrome issues
+    url: /bpc-clone/bpc_chrome_support/issues
+    about: Also check Chrome issues.
